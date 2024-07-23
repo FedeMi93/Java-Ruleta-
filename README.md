@@ -1,14 +1,14 @@
-#Roulette Game Project
+### Roulette Game Project
 
-##Project Description
+## Project Description
 
 The project involves modeling and implementing a prototype of a roulette game for a software engineering course at the Faculty of Engineering, Universidad ORT Uruguay. The goal is to develop a basic version of a roulette game that simulates a casino environment, allowing players to place bets and obtain results based on the rules of the roulette game.
 
-##Important Functionality: Placing Bets
+## Important Functionality: Placing Bets
 
 One of the most important functionalities of the roulette game is the ability to place bets. This functionality allows players to select the type of bet they want to make (e.g., betting on a specific number, a color, or a group of numbers), determine the amount of money they want to bet, and confirm their bet before the roulette wheel spins.
 
-##Betting Process:
+## Betting Process:
 
  1 - Selection of Bet Type: The player chooses from various available bet types (single number, color, odd/even, etc.).
  
@@ -32,17 +32,17 @@ One of the most important functionalities of the roulette game is the ability to
 
 
 
-#Proyecto de Juego de Ruleta
+### Proyecto de Juego de Ruleta
 
-##Descripción del Proyecto
+## Descripción del Proyecto
 
 El proyecto consiste en modelar e implementar un prototipo de juego de ruleta para un curso de ingeniería de software en la Facultad de Ingeniería de la Universidad ORT Uruguay. El objetivo es desarrollar una versión básica de un juego de ruleta, que simule el entorno de un casino y permita a los jugadores realizar apuestas y obtener resultados basados en las reglas del juego de ruleta.
 
-##Funcionalidad Importante: Realización de Apuestas
+## Funcionalidad Importante: Realización de Apuestas
 
 Una de las funcionalidades más importantes del juego de ruleta es la realización de apuestas. Esta funcionalidad permite a los jugadores seleccionar el tipo de apuesta que desean realizar (por ejemplo, apostar a un número específico, a un color, o a un grupo de números), determinar la cantidad de dinero que quieren apostar, y confirmar su apuesta antes de que la ruleta gire.
 
-##Proceso de Realización de Apuestas:
+## Proceso de Realización de Apuestas:
 
  1 - Selección del Tipo de Apuesta: El jugador elige entre varios tipos de apuestas disponibles (número único, color, par/impar, etc.).
  
